@@ -16,4 +16,4 @@ Right now, the channel is in its initial phase and is looking for contributors t
 A lot of exciting projects are in the pipeline and the channel is looking for contributors to help in the development of the twitch platform and the YouTube channel. If you are interested in twitch streaming, YouTube channel management, or have a knack for building gadgets from scratch, and want to help make the stream more interactive, then you are welcome to send me a message via [patreon](https://www.patreon.com/robjects).
 
 ## Contact:
-For any queries, you can reach out to me via [patreon](https://www.patreon.com/robjects).
+For any queries, you can reach out to me via [patreon](https://www.patreon.com/robjects) or reach out through discussions in the repository you are interested in.
